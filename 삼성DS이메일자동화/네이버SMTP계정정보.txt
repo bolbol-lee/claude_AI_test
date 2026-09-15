@@ -1,0 +1,11 @@
+## 계정 정보
+- 아이디 : ibr1061
+- 비밀번호(SMTP임.괜찮아) : QWUTW2R3YX1X
+
+## 서버 명
+- IMAP 서버명 : imap.naver.com
+- SMTP 서버명 : smtp.naver.com
+
+## 포트 정보
+- IMAP 포트 : 993, 보안연결(SSL) 필요
+- SMTP 포트 : 587, 보안 연결(TLS) 필요(TLS가 없는 경우 SSL로 연결)
